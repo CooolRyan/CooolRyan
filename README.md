@@ -29,6 +29,42 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    
+<div align= "center">
+    
+### 🎖️ 인프라 프로젝트 목록 🎖️
+
+| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
+|----|---------------|------|-----------|----------|------|------|
+| 1  | **ELK는 무진장 무신사랑해** | JDBC와 ELK를 연동해 사용해 데이터 연동 및 시각화, 스코어 조정과 nori 분석기를 사용해 무신사의 검색 정렬 알고리즘 따라하기 | MySQL, ElasticSearch, Logstash, Kibana | &nbsp;&nbsp;👨‍👨‍👦‍👦<br>(4명) |      |      |
+| 2  |               |      |           |          |      |      |
+| 3  |               |      |           |          |      |      |
+| 4  |               |      |           |          |      |      |
+| 5  |               |      |           |          |      |      |
+| 6  |               |      |           |          |      |      |
+| 7  |               |      |           |          |      |      |
+| 8  |               |      |           |          |      |      |
+| 9  |               |      |           |          |      |      |
+| 10 |               |      |           |          |      |      |
+| 11 |               |      |           |          |      |      |
+| 12 |               |      |           |          |      |      |
+| 13 |               |      |           |          |      |      |
+
+
+
+<br>
+
+### ✨ 백엔드 프로젝트 목록 ✨
+
+| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
+|----|---------------|------|-----------|----------|------|------|
+| 1  | **코로나 백신 예약 프로그램** |  | Jdk11, Html/Css, BootStrap, , Mybatis |&nbsp;&nbsp;👨‍👨‍👦‍👦<br>(4명)  |[Click Here](https://github.com/KW-gugugaga/DB_Vaccine)| |  
+| 2  | **기프티콘 거래 사이트** |  |Jdk11, Html/Css, BootStrap, , Jpa|&nbsp;&nbsp;👨‍👨‍👦‍👦<br>(4명) | [Click Here](https://github.com/KW-gugugaga/SE_Project3)||
+| 3  | **중고나라 사이트** |  |Jdk17, React, AWS S3, AWS Ec2, Git Action, AWS Code Deploy|&nbsp;&nbsp;👨‍👨‍👦‍👦<br>(2명)  |[Click Here](https://github.com/CEDB2024/Joonggonara)  ||
+| 4  | **FR** | 부동산 실거래 공공 데이터를 기반으로 순수 Java를 통한 MVC 패턴 구현, AOP 구현을 위한 Java Dynamic Proxy 사용 | Java 17, Oracle, Ubuntu 24.04, Docker | &nbsp;&nbsp;👨‍👨‍👦‍👦<br>(4명)|  |  |
+
+</div>
+---
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=CooolRyan&bg_color=180,8dcea1,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CooolRyan&layout=compact&bg_color=180,8dcea1,00000000&title_color=ffffff&text_color=ffffff"
