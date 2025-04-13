@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
 </p>
 
 ### 🧠 Develop
@@ -81,3 +79,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CooolRyan&bg_color=180,8dcea1,00000000&title_color=ffffff&text_color=ffffff"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CooolRyan&layout=compact&bg_color=180,8dcea1,00000000&title_color=ffffff&text_color=ffffff"/>
 </p>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CooolRyan&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/CooolRyan"
+    width="600"
+    height="300"
+  />
+  </a>
+</div>
