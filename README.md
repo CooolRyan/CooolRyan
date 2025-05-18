@@ -68,11 +68,11 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1 | **Voice 기반 금융 소외자 헬퍼** | 금융 소외 계층이 음성 기반 서비스 이용이 가능하도록 서비스를 제안. 위험 감지를 통한 대행인 카카오톡 알림. 대행인 등록 과정 NFT 발급 및 확인 | Javascript, Solidity, AWS | 👨‍👨‍👦‍👦 (5명) | [Click Here]([https://github.com/KW-gugugaga/DB_Vaccine](https://github.com/2025-PinTech-Hackathon/team01-blockchain)) | - |
-| 2 | **코로나 백신 예약 프로그램** | - | Spring Boot, Thymeleaf, Bootstrap, MyBatis | 👨‍👨‍👦‍👦 (4명) | [Click Here](https://github.com/KW-gugugaga/DB_Vaccine) | - |
-| 3 | **중고나라 사이트** | - | Spring Boot, React, GitHub Actions, AWS S3, EC2, Code Deploy | 👨‍👨‍👦‍👦 (2명) | [Click Here](https://github.com/CEDB2024/Joonggonara) | - |
-| 4 | **FR** | 부동산 실거래 공공 데이터를 기반으로 순수 Java로 MVC + AOP 구현 | Java 17, Oracle, Ubuntu 24.04, Docker | 👨‍👨‍👦‍👦 (4명) | - | - |
-| 4 | **WoorePie** | STO 기반 부동산 조각 투자 플랫폼 | Java 17, Javascript, Solidity, Kafka, AWS, vSphere | 👨‍👨‍👦‍👦 (4명) | - | [Click Here](https://github.com/orgs/woorepie/repositories) |
+| 1 | **Voice 기반 금융 소외자 헬퍼** | 금융 소외 계층이 음성 기반 서비스 이용이 가능하도록 서비스를 제안. 위험 감지를 통한 대행인 카카오톡 알림. 대행인 등록 과정 NFT 발급 및 확인 | Javascript, Solidity, AWS | 👨‍👨‍👦‍👦 (5명) | [Click Here](https://github.com/2025-PinTech-Hackathon/team01-blockchain) | - |
+| 2 | **WoorePie** | STO 기반 부동산 조각 투자 플랫폼 | Java 17, Javascript, Solidity, Kafka, AWS, vSphere | 👨‍👨‍👦‍👦 (4명) | [Click Here](https://github.com/orgs/woorepie/repositories) | - |
+| 3 | **FR** | 부동산 실거래 공공 데이터를 기반으로 순수 Java로 MVC + AOP 구현 | Java 17, Oracle, Ubuntu 24.04, Docker | 👨‍👨‍👦‍👦 (4명) | - | - |
+| 4 | **코로나 백신 예약 프로그램** | - | Spring Boot, Thymeleaf, Bootstrap, MyBatis | 👨‍👨‍👦‍👦 (4명) | [Click Here](https://github.com/KW-gugugaga/DB_Vaccine) | - |
+| 5 | **중고나라 사이트** | - | Spring Boot, React, GitHub Actions, AWS S3, EC2, Code Deploy | 👨‍👨‍👦‍👦 (2명) | [Click Here](https://github.com/CEDB2024/Joonggonara) | - |
 
 
 ---
