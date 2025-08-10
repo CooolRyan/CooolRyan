@@ -4,6 +4,15 @@
 
 ---
 
+## 💼 Experience
+
+<p align="center">
+  <sub><strong>2025.07 ~ Present</strong> — Working at <b>Korea Financial Telecommunications & Clearings Institute (KFTC, 금융결제원)</b></sub><br/>
+  <sub><strong>2024.12 ~ 2025.06</strong> — Completed <b>Woori FIS Academy</b> (Cloud Engineering)</sub>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### ☁️ Infra
@@ -42,7 +51,6 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
-
 
 ---
 
