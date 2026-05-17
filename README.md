@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4b6cb7,e0eafc&height=150&section=header&text=Welcome%20to%20Ryan's%20Lab&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Working%20As%20Infra%20Engineer&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4b6cb7,e0eafc&height=150&section=header&text=Welcome%20to%20Ryan's%20Lab&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Working%20As%20DevOps%20Engineer&descAlignY=60&descAlign=50"/>
 
 
 ---
@@ -18,13 +18,19 @@
 <p>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Red Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+### ♾️ DevOps & Observability
+<p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VictoriaMetrics-1E1E1E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
 ### 🧬 Languages
