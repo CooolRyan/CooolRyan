@@ -58,7 +58,7 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 |
 |----|---------------|------|-----------|----------|------|
-| 1 | **WoorePie** | STO 기반 부동산 조각 투자 플랫폼 | Java 17, Javascript, Solidity, Kafka, AWS, vSphere | 👨‍👨‍👦‍👦 (4명) | [Click Here](https://github.com/orgs/woorepie/repositories) |
+| 1 | **WoorePie** | STO 기반 부동산 조각 투자 플랫폼 | Java 17, Javascript, Solidity, Kafka, AWS, vSphere | 👨‍👨‍👦‍👦 (4명) | [Click Here](https://github.com/orgs/woorepie) |
 | 2 | **Voice 기반 금융 소외자 헬퍼** | 금융 소외 계층이 음성 기반 서비스 이용이 가능하도록 서비스를 제안. 위험 감지를 통한 대행인 카카오톡 알림. 대행인 등록 과정 NFT 발급 및 확인 | Javascript, Solidity, AWS | 👨‍👨‍👦‍👦 (5명) | [Click Here](https://github.com/2025-PinTech-Hackathon/team01-blockchain) |
 | 3 | **ELK는 무진장 무신사랑해** | JDBC와 ELK를 연동해 데이터 연동 및 시각화, 스코어 조정과 nori 분석기를 사용해 무신사의 검색 정렬 알고리즘 따라하기 | MySQL, ElasticSearch, Logstash, Kibana | 👨‍👨‍👦‍👦 (4명) | [Click Here](https://github.com/CooolRyan/ELK) |
 
